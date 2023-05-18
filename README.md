@@ -1,5 +1,5 @@
 # parsing_TO
-Description
+
 This code is created to retrieve information about new investment projects from web pages and store this data in an Excel file.
 The code utilizes the requests and BeautifulSoup libraries for retrieving and parsing HTML code from web pages.
 The obtained information includes project names, the presence of 3D models, links to the developer's website, and other details.
